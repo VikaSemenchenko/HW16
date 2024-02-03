@@ -1,0 +1,9 @@
+.home {
+    width: 1200px;
+    height: 700px;
+    background-color: green;
+background-image: url("../images/pole-zelen-trava-dom-derevya.jpg"), url("../images/green-png-44873.png"),url("../images/lamp-png-34914.png"),url(../images/webp.jpg), url(../images/58eb07b830eab15b56162788.png);
+background-repeat: no-repeat,repeat-x, repeat-x,repeat-y,repeat-y;
+background-position: center,bottom,top,left,right;
+background-size: 700px,300px,50px,50px,50px;
+}
